@@ -1,0 +1,1 @@
+Add bat file to environment vairables for this to work
